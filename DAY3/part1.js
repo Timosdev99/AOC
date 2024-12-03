@@ -7,7 +7,7 @@ function checkMul(report) {
     
     const pattern = /mul\((\d{1,3}),(\d{1,3})\)/g;
     
- s
+
     let match;
     let totalSum = 0;
 
