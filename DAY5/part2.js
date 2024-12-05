@@ -29,7 +29,7 @@ function parseInput(inputText) {
     
     return { rules, updates };
 }
-
+   
 function isUpdateOrdered(update, rules) {
    
     for (let i = 0; i < update.length; i++) {
