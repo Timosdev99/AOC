@@ -52,4 +52,4 @@ input.forEach(line => {
     }
 });
 
-console.log('Total Calibration Result:', totalCalibrationResult);
+console.log(totalCalibrationResult);
